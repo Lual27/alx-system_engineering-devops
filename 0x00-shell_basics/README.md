@@ -9,3 +9,4 @@ Move the file betty from /tmp/ to /tmp/my_first_directory
 Bye bye Betty
 Deleting  my first directory
 changing working directory to the previous one
+List all files
