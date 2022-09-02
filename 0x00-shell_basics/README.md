@@ -2,4 +2,4 @@ path name of current working dirctory
 display content list of my current directory
 changing working directory to user's homme directory
 displaying current directory in long format
-Display current directory contents, including hidden files
+display current directory contents including hidden files
