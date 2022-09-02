@@ -10,3 +10,4 @@ Bye bye Betty
 Deleting  my first directory
 changing working directory to the previous one
 List all files
+script that prints the type of the file named iamafile
