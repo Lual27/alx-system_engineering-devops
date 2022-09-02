@@ -4,4 +4,4 @@ changing working directory to user's homme directory
 displaying current directory in long format
 display current directory contents including hidden files
 Display current directory contents. long format.with user and group ID. and hidden files
-script that creates a directory named my first directory in the /tmp/ directory
+a script that creates a directory named my_first_directory in the /tmp/ directory.
